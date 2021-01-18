@@ -1,3 +1,3 @@
 # hello-world
-My first steps with GitHub!
+My first steps with GitHub.
 Maybe this is the start of a great journey...
